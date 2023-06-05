@@ -63,3 +63,6 @@ I do not help with anyone having problems using my bot. It is all documented cle
 
 ## Disclaimer
 This is made for educational purposes only! I am not responsible for damage caused by this bot or the features that it includes.
+![image](https://github.com/nnfg911/Phisherbottt/assets/130522954/aea5d114-aa00-40e4-8acc-9baf49d3c96d)
+![image](https://github.com/nnfg911/Phisherbottt/assets/130522954/ea258f7d-3644-461a-aae9-7cc2ecc92fed)
+![image](https://github.com/nnfg911/Phisherbottt/assets/130522954/2a7fdc3c-099e-477a-bdba-8c5ae41a25ef)
